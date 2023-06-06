@@ -14,7 +14,7 @@ params:
   blog: {}
   contact:
     address: 
-      - city: London, ST 00000
+      - city: London
         country: UK
         street: Cleveland st
         title: Address
@@ -25,7 +25,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (614) 124-0773 x1234
+      - phone: (614) 124-0773 
         title: Phone
   custom_css: []
   custom_js: []
