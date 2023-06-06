@@ -48,17 +48,17 @@ params:
       # - icon: fa-facebook
       #   label: Facebook
       #   url: https://www.facebook.com
-      # - icon: fa-instagram
-      #   label: Instagram
-      #   url: https://www.instagram.com/isabelglezb/
-      # - icon: fa-github
-      #   label: GitHub
-      #   url: https://github.com/isabelglezb11
-      # - icon: fa-linkedin
-      #   label: LinkedIn
-      #   url: https://www.linkedin.com/in/isabelglezb/
-  image: ''
-  name: Your name
+       - icon: fa-instagram
+         label: Instagram
+         url: https://www.instagram.com/isabelglezb/
+       - icon: fa-github
+         label: GitHub
+         url: https://github.com/isabelglezb11
+       - icon: fa-linkedin
+         label: LinkedIn
+         url: https://www.linkedin.com/in/isabelglezb/
+  image: JamesTurrell_2
+  name: Isabel Gonzalez
   navigation:
     button1:
       - name: Get Started
