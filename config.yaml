@@ -84,15 +84,15 @@ params:
       - image: JamesTurrell_1.jpeg
         subtitle: Wokring with Data Manipulation
         title: Homework One
-        url: blogs/risk_return
+        url: blogs/homework1.html
       - image: JamesTurrell_2.jpeg
         subtitle: Working with Data Visualisation
         title: Homework Two
-        url: blogs/tempus
+        url: blogs/homework2.html
       - image: JamesTurrell_3.jpeg
         subtitle: Working with Data Bases, Web Screping and Shiny App
         title: Homework Three
-        url: blogs/magna
+        url: blogs/homework3.html
       - image: JamesTurrell_4.jpeg
         subtitle: Working with Machine Learning
         title: Homework Four
@@ -100,11 +100,11 @@ params:
       - image: JamesTurrell_5.jpeg
         subtitle: Machine Learning
         title: Team Assignment
-        url: blogs/ipsum
+        url: blogs/final_group_project.docx
       - image: JamesTurrell_6.jpeg
         subtitle: Isabel's CV
         title: Isabel's Past Experience
-        url: blogs/ipsum
+        url: blogs/IsabelGonzalezBaca_CV.pdf
   two:
     buttonText: Get Started
     enable: yes
