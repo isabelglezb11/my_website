@@ -60,9 +60,9 @@ params:
   image: JamesTurrell_2
   name: Isabel Gonzalez
   navigation:
-    button1:
-      - name: Get Started
-        url: blogs
+    # button1:
+      # - name: Get Started
+      #   url: blogs
     button2:
       - name: Log In
         url: '#'
