@@ -82,28 +82,28 @@ params:
     enable: yes
     showcase:
       - image: JamesTurrell_1.jpeg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: Wokring with Data Manipulation
+        title: Homework One
         url: blogs/risk_return
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+      - image: JamesTurrell_2.jpeg
+        subtitle: Working with Data Visualisation
+        title: Homework Two
         url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+      - image: JamesTurrell_3.jpeg
+        subtitle: Working with Data Bases, Web Screping and Shiny App
+        title: Homework Three
         url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+      - image: JamesTurrell_4.jpeg
+        subtitle: Working with Machine Learning
+        title: Homework Four
         url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
+      - image: JamesTurrell_5.jpeg
+        subtitle: Machine Learning
+        title: Team Assignment
         url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
+      - image: JamesTurrell_6.jpeg
+        subtitle: Isabel's CV
+        title: Isabel's Past Experience
         url: blogs/ipsum
   two:
     buttonText: Get Started
